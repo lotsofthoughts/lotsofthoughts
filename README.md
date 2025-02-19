@@ -1,22 +1,13 @@
-@lotsofthoughts
+@lotsofthoughts - manager of softdist
 
-# Ahoy!
+> SoftDist is a cross-platform CLI specializing in polyglot ops.
 
-My name is Alexivy and I specialize in:
 ```
-‣ Realtime ModelOps and Interoperability at scale   
-‣ Socio-Technical Advisory   
-	‣  Logical High Crypto
-	‣  Predictive Intelligence
-	‣  Passive Yield Systems
-‣ Advanced Scenario AI
-‣  Dockerless & Daemonless  
-‣  Dependency-Free  - OpenSource 
-‣  BI Aware
-	‣  Deep Learning & NN
-	‣  Context Sensitive  
-	‣  Finite State Nachines
-	‣  Situationally Attenuated Software  
+    .▄▄ ·       ·▄▄▄▄▄▄▄▄·▄▄▄▄  ▪  .▄▄ · ▄▄▄▄▄
+    ▐█ ▀. ▪     ▐▄▄·•██  ██▪ ██ ██ ▐█ ▀. •██
+    ▄▀▀▀█▄ ▄█▀▄ ██▪  ▐█.▪▐█· ▐█▌▐█·▄▀▀▀█▄ ▐█.▪
+    ▐█▄▪▐█▐█▌.▐▌██▌. ▐█▌·██. ██ ▐█▌▐█▄▪▐█ ▐█▌·
+     ▀▀▀▀  ▀█▄▀▪▀▀▀  ▀▀▀ ▀▀▀▀▀• ▀▀▀ ▀▀▀▀  ▀▀▀
 
 ```
 
