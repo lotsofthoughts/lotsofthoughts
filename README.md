@@ -1,6 +1,6 @@
-@lotsofthoughts - Sandbox for creative ideas 
+@lotsofthoughts - Sandbox for algorithm, computational, and AI secops related projects 
 
-> These open source proof of concepts are works created by Lynsei in her spare time. 
+Author: Lynsei
 
 ```
     __      __                ____  __  __                      __    __      
@@ -24,9 +24,7 @@
     
 - [homebrew-softdist](https://github.com/softdist/homebrew-softdist) – Homebrew tap for sd-release
     
-- [extensions](https://github.com/pkgdist/extensions) – Extensible plugin framework for governance reporting toolchain
-    
-- [governance-engine](https://github.com/binaryrelease/governance) - governance engine for use with extensions framework
+- [extensions](https://github.com/pkgdist/extensions) – Extensible plugin framework for logging and reporting 
     
 - short-lived [environments](https://github.com/shortlived/environments) & [secrets](https://github.com/shortlived/secrets) - solutions to short-term secret caches secured from AI agents
 
