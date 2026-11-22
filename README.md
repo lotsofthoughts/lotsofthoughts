@@ -26,7 +26,9 @@ Author: Lynsei
     
 - [homebrew-softdist](https://github.com/softdist/homebrew-softdist) – Homebrew tap for sd-release
     
-- [extensions](https://github.com/pkgdist/extensions) – Extensible plugin framework for logging and reporting 
+- [extensions](https://github.com/pkgdist/extensions) – Extensible plugin framework for logging and reporting
+
+- [static-fish-3.7.1](https://github.com/lotsofthoughts/static-fish-3.7.1) - Use case to dockerize Fish Shell fork into my own static version
     
 # Templates
     
