@@ -18,8 +18,6 @@
 
 # Proof-of-concept Works
     
-- [vcs.agent](https://github.com/lotsofthoughts/vcs.agent) - settings management app for GH I wrote in typescript
-    
 - [gist-scan](https://github.com/pkgdist/gist-scan) – CLI tool for scanning GitHub Gists for sensitive data written in deno
     
 - [sd-release](https://github.com/softdist/sd-release) – Automated release management tool and docker task runner (docker-in-docker)
@@ -28,7 +26,7 @@
     
 - [extensions](https://github.com/pkgdist/extensions) – Extensible plugin framework for governance reporting toolchain
     
-- [governance-engine](https://github.com/binaryrelease/governance) - governance rules engine for use with extensions framework
+- [governance-engine](https://github.com/binaryrelease/governance) - governance engine for use with extensions framework
     
 - short-lived [environments](https://github.com/shortlived/environments) & [secrets](https://github.com/shortlived/secrets) - solutions to short-term secret caches secured from AI agents
 
@@ -37,12 +35,11 @@
 # Templates
     
 - orchestras - Custom repo templates for task management (https://github.com/orchestras)
-
-- [dev-patterns](https://github.com/orchestras/dev-patterns) - Sync your tasks, githooks, workflows, and pre-commit tasks to repos easily
     
 # Rough Sketches
 - [agent-firewall](https://github.com/agentdefense/agent.firewall.msvc/tree/main/WorkingCopyLoc/agent-firewall%202) - postgres driven agent governance proxy I'm writing in my spare time
 
+Note: None of the concepts on this page are work related.   I intentionally never work on healthcare or pharmacy related projects in my open source work.   All the concepts used herein are relevant only to algorithm or low-level compute operations for the explicit reason of staying idiomatic.
 
-Copyright 2026 L.A.H.
+Copyright 2026 Lynsei
 MIT License
